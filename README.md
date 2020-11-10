@@ -63,11 +63,15 @@
 
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/8t2s8jw1zcb9iyvd8hwe.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-## Cloud Computing 
+## Table of Contents : 
 
 * Introduction of Virtualization
-* 
-* Cloud Consumers diffrences
+* Types of virtualization
+* How virtualization work in Cloud
+* Virtualization Challenges
+* Virtualization Security
+* Virtualization Common attacks 
+* Conclusion
 
 
 ---
