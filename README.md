@@ -27,6 +27,8 @@
   * BA Computer Science, Minor in Mathematics
 * Worked as a System Administrator, QA Analyst, Software Engineer, Full Stack Instructor
 * I am currently a Senior Developer at codinggame
+* Serach For Graduation Internship Currently
+* you can contact me by submitting a pull request in this repo or send me an email , just search for my email in social media ;)
 
 ----
 
